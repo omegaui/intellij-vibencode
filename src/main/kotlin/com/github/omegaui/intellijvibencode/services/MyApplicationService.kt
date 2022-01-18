@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.omegaui.intellijvibencode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.omegaui.intellijvibencode.MyBundle
 
 class MyApplicationService {
 
